@@ -1,0 +1,45 @@
+body{
+
+back
+
+    /*  background-image: url(iti.png);
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    */
+}
+.Change, h1{
+            color:cornflowerblue;
+            background-color: bisque;
+        }
+
+
+
+        #IDsc{
+            color:#3C34FF;
+            background-color: bisque;
+        }
+
+.myFont{
+    text-decoration: underline;
+}
+
+div{
+    padding: 2px 3px 5px 7px;
+    bac
+    color: brown !important;
+    font-family: 'Big Shoulders Text', cursive;
+    font-size: 2vw;
+    direction: rtl;
+    text-shadow: 2px 2px;
+    background-color: #4452FF;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 40%;
+    width: 30%;
+    height: 30px;
+    text-align: center;
+
+}
+
+
